@@ -21,6 +21,7 @@ public class AppTest
 
        WebDriver driver = new ChromeDriver();
        driver.get("https://www.google.com");
+       String a;
 
     }
 }
